@@ -4,8 +4,8 @@ import HomeScreen from "./HomeScreen";
 
 function App() {
   return (
+    // BEM
     <div className="app">
-      <h1>Netflix Clone</h1>
       <HomeScreen />
     </div>
   );

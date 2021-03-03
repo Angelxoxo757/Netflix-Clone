@@ -3,8 +3,10 @@ import "./HomeScreen.css";
 
 function HomeScreen() {
   return (
-    <div className="home__screen">
-      <h1>Homescreen</h1>
+    <div className="homeScreen">
+      {/* NAV */}
+      {/* BANNER */}
+      {/* ROWS */}
     </div>
   );
 }
