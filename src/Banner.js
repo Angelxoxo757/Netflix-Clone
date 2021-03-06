@@ -23,7 +23,7 @@ function Banner() {
         </div>
         <h1 className="banner__description">
           {truncate(
-            `This is a test description dddddddddddgfgfdgdgdfbdfdgddfddfgdffvdfddvfdddfbbbcbvbcvb This is a test description dddddddddddgfgfdgdgdfbdfdgddfddfgdffvdfddvfdddfbbbcbvbcvbThis is a test description dddddddddddgfgfdgdgdfbdfdgddfddfgdffvdfddvfdddfbbbcbvbcvbThis is a test description dddddddddddgfgfdgdgdfbdfdgddfddfgdffvdfddvfdddfbbbcbvbcvbThis is a test description dddddddddddgfgfdgdgdfbdfdgddfddfgdffvdfddvfdddfbbbcbvbcvbThis is a test description dddddddddddgfgfdgdgdfbdfdgddfddfgdffvdfddvfdddfbbbcbvbcvbThis is a test description dddddddddddgfgfdgdgdfbdfdgddfddfgdffvdfddvfdddfbbbcbvbcvbThis is a test description dddddddddddgfgfdgdgdfbdfdgddfddfgdffvdfddvfdddfbbbcbvbcvbThis is a test description dddddddddddgfgfdgdgdfbdfdgddfddfgdffvdfddvfdddfbbbcbvbcvbThis is a test description dddddddddddgfgfdgdgdfbdfdgddfddfgdffvdfddvfdddfbbbcbvbcvb`,
+            `This is a test description This is a test description This is a test description This is a test description This is a test description This is a test description This is a test description`,
             150
           )}
         </h1>
