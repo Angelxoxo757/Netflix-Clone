@@ -10,7 +10,6 @@ function App() {
   return (
     // BEM
     <div className="app">
-      <HomeScreen />
       <Router>
         {!user ? (
           <LoginScreen />
