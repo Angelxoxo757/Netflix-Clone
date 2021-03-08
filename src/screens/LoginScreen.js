@@ -7,7 +7,7 @@ function LoginScreen() {
       <div className="loginScreen__background">
         <img
           className="loginScreen__logo"
-          src="https://assets.brand.microsites.netflix.io/assets/493f5bba-81a4-11e9-bf79-066b49664af6_cm_1440w.png?v=49"
+          src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c529.png"
           alt=""
         />
       </div>
