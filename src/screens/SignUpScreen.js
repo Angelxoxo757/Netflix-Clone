@@ -2,6 +2,8 @@ import React from "react";
 import "./SignupScreen.css";
 
 function SignupScreen() {
+  const register = () => {};
+
   return (
     <div className="signupScreen">
       <form>
