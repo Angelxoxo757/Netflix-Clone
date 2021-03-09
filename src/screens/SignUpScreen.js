@@ -3,7 +3,7 @@ import "./SignupScreen.css";
 
 function SignupScreen() {
   const register = () => {
-    // AUTHENICATION
+    // AUTHENICATION SETUP
   };
 
   return (
