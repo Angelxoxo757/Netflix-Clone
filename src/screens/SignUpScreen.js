@@ -1,12 +1,17 @@
 import React from "react";
-import "./SignUpScreen.css";
+import "./SignupScreen.css";
 
-function SignUpScreen() {
+function SignupScreen() {
   return (
-    <div>
-      <h1>SignUpScreen</h1>
+    <div className="signupScreen">
+      <h1>Sign In</h1>
+      <form>
+        <input type="email" placeholder="E-mail" />
+        <input type="password" placeholder="Password" />
+        <button type="submit">Sign In</button>
+      </form>
     </div>
   );
 }
 
-export default SignUpScreen;
+export default SignupScreen;
