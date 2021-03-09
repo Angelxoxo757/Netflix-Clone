@@ -2,7 +2,9 @@ import React from "react";
 import "./SignupScreen.css";
 
 function SignupScreen() {
-  const register = () => {};
+  const register = () => {
+    // AUTHENICATION
+  };
 
   return (
     <div className="signupScreen">
