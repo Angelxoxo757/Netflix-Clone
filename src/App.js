@@ -24,11 +24,11 @@ function App() {
         );
       } else {
         // LOGGED OUT
-        dispatch(logout);
+        dispatch(logout());
       }
     });
     return unsubscribe;
-  }, []);
+  }, [dispatch]);
 
   return (
     // BEM
